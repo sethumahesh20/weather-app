@@ -1,0 +1,8 @@
+{
+    "Guntur": { "temperature": 32, "windspeed": 10, "condition": "Sunny" },
+    "Hyderabad": { "temperature": 28, "windspeed": 12, "condition": "Cloudy" },
+    "Delhi": { "temperature": 35, "windspeed": 8, "condition": "Hot" },
+    "Mumbai": { "temperature": 30, "windspeed": 15, "condition": "Rainy" },
+    "Chennai": { "temperature": 31, "windspeed": 14, "condition": "Humid" }
+  }
+  
